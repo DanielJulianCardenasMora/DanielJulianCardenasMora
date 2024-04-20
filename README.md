@@ -17,7 +17,7 @@
   
 - ⚡ My main skill is back-end development with Node.js - Express - PostgreSQL
   
-- 💬 I speak fluent english and I'm a fan of socializing
+- 😃 I speak fluent english and I'm a fan of socializing
 
 
 
@@ -36,11 +36,11 @@
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="70" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -77,12 +77,12 @@
 
 <h2> Activity graph </h2>
   
-<br>
-<br>
-  
 
 ![DanielJulianCardenasMora's Stats](https://github-readme-stats.vercel.app/api?username=DanielJulianCardenasMora&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  ![DanielJulianCardenasMora's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielJulianCardenasMora&theme=tokyonight&hide_border=true) 
 
 ![DanielJulianCardenasMora's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJulianCardenasMora&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) 
 
+  
+<br>
+<br>
 <br>
