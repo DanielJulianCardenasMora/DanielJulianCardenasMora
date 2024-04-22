@@ -19,9 +19,7 @@
   
 - 😃 I speak fluent english and I'm a fan of socializing
 
-
-
-
+I am a person with logical thinking, I feel very exited to be into technology, since I was a kid I developed skills in computing and software managing. My interest are reasoning challenges, reading, science articles, and obtaining good degrees. I had a company once, so I am used to hardworking and goal achievement.
 
 <br>
 <br>
