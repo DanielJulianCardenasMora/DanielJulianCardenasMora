@@ -13,7 +13,7 @@
 
 - 🔭 I start to study Software Engineering in july 2024
   
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
   
 - ⚡ My main skill is back-end development with Node.js - Express - PostgreSQL
   
